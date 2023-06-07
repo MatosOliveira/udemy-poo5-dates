@@ -10,6 +10,8 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
 /**
+ * Classe que utiliza as classes do pacote java.time para Datas e Horas
+ * 
  * @author Matos
  *
  */
